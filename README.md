@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @noslen254
+- 👋 Hi, I’m Nelson Sammy
 - 👀 I’m interested in AI, building new apps
 - 🌱 I’m currently developing ...
 - 💞️ I’m looking to collaborate on open source or projects
