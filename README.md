@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI, building new apps
 - 🌱 I’m currently developing ...
 - 💞️ I’m looking to collaborate on open source or projects
-- 📫 How to reach me ...
+- 📫 How to reach me ...@NelsonPsammy on twitter
 
 <!---
 noslen254/noslen254 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
